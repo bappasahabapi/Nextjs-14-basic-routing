@@ -8,6 +8,9 @@ yarn dev
 
 ```
 
+## [Live Link:](https://nextjs-14-basic-routing.vercel.app/)
+![OUTput](./nextjs1.png)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 - Everything inside the app folder is server components.
